@@ -1,4 +1,4 @@
-# 🧪 CanaryLab  Progressive Delivery Canary Analysis Simulator
+# 🧪 Canary - Lab  Progressive Delivery Canary Analysis Simulator
 Python · NumPy · Pandas · Matplotlib  
 
 CanaryLab is a Python-based simulator for **canary deployments** and **progressive delivery analysis**.  
