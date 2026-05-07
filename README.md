@@ -6,7 +6,7 @@ It models baseline vs. canary traffic, generates latency and error metrics, appl
 
 This project is useful for **learning release strategies, SRE practices, and automated rollout decisions**.
 
--------
+----------
 
 ## ✨ What It Does
 - Simulates **baseline vs. canary traffic** (configurable traffic split, e.g., 90/10)  
