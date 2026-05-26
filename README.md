@@ -18,7 +18,7 @@ This project is useful for **learning release strategies, SRE practices, and aut
   - **PNG** with latency distribution + error rate chart  
   - **Console verdict** (PASS / FAIL + reasons)  
 
----
+-----
 
 ## 🛠 Tech & Languages
 
