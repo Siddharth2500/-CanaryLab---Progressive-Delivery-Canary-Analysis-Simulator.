@@ -30,7 +30,7 @@ This project is useful for **learning release strategies, SRE practices, and aut
 | Charts       | Matplotlib   | Latency histograms and error rate plots       |
 | Runtime      | Colab/Local  | Works in Google Colab or any Python env       |
 
----
+-----
 
 ## 🌐 Architecture
 
