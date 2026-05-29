@@ -41,7 +41,7 @@ This project is useful for **learning release strategies, SRE practices, and aut
 4. Verdict (PASS/FAIL) is logged with reasons.  
 5. Charts and CSV are exported.  
 
--------
+----------
 
 ## 📦 Repository Structure
 
